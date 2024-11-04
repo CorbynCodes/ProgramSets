@@ -1,0 +1,6 @@
+Enter value: 123456
+Minimum base: 7
+Run again (Y/N): y
+Enter value: FF
+Minimum base: 16
+Run again (Y/N): n

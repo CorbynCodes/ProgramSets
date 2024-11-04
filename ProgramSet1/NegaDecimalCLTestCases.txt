@@ -1,0 +1,8 @@
+N to D (N) or D to N (D): N
+Enter Value [-10000-10000]: 1337
+Result: -723
+Do you want to run again? (Y/N): y
+N to D (N) or D to N (D): D
+Enter Value [-10000-10000]: -300
+Result: 1700
+Do you want to run again? (Y/N): n
